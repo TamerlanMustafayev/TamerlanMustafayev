@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 My top projects are available at [tamerlanmustafayev.com](tamerlanmustafayev.com)
+- 👨‍💻 My top projects are available at [tamerlanmustafayev.com](https://tamerlanmustafayev.com/)
 
-- 📝 I sometimes write articles on [medium.com/@tamerlein](medium.com/@tamerlein)
+- 📝 I sometimes write articles on [medium.com/@tamerlein](https://medium.com/@tamerlein)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
