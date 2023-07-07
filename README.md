@@ -18,7 +18,7 @@
  <br>
 -<strong>Design Tools</strong>: Adobe Photoshop, Adobe Illustrator <br>
 
-- Check out my website at [tamerlanmustafayev.com](https://tamerlanmustafayev.com/)
+Check out my website at [tamerlanmustafayev.com](https://tamerlanmustafayev.com/)
 
 
 <h3 align="left">Connect with me:</h3>
