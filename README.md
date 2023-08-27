@@ -1,33 +1,41 @@
-<h1 align="center">Tamerlan Mustafayev</h1>
-<h3 align="center">Frontend developer</h3>
+<h1 align="center">Hey! 👋</h1>
 
+###
 
-<p> I am a results-driven  frontend developer with a passion for creating visually stunning and responsive web applications. Seeking to leverage my experience and design background in a challenging role within the tech industry. Committed to continuous learning and eager to contribute to innovative projects that blend creativity with cutting-edge technology.</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/tamerlanmustafayev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
--<strong>Programming Languages</strong>: HTML, CSS, SCSS, JavaScript, React <br>
- <br>
--<strong>Tech Skills</strong>: Proficient in developing responsive, user-friendly websites and web applications with hands-on experience in error handling, DOM manipulation, and event handling. <br>
- <br>
--<strong>Frameworks & Libraries</strong>: React(React Router, State management, React hooks) Node.js, jQuery, Bootstrap <br>
- <br>
--<strong>Package Managers</strong>: NPM <br>
- <br>
--<strong>Version Control</strong>: Git, GitHub <br>
- <br>
--<strong>Content Management Systems</strong>: WordPress, Elementor <br>
- <br>
--<strong>Design Tools</strong>: Adobe Photoshop, Adobe Illustrator <br>
+###
 
-Check out my website at [tamerlanmustafayev.com](https://tamerlanmustafayev.com/)
+<h3 align="left">👩‍💻  About Me</h3>
 
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tamerlanmustafayev" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="tamerlanmustafayev" height="30" width="40" /></a>
+<p align="left">I'm from Azerbaijan.<br><br>- 🔭 I’m working as a remote frontend engineer.<br>- 📚 I'm currently learning WCAG</p>
 
-</p>
+###
 
+<h3 align="left">🛠 Language and tools</h3>
 
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
+</div>
 
-
+###
